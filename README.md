@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
-Project Hoisting URL - [Link](https://thedojosite-3ed20.web.app).
+Project Hoisting URL - [Link](https://thedojosite-3ed20.web.app)
 
 ## Available Scripts
 
